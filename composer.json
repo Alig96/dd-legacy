@@ -1,0 +1,17 @@
+{
+    "name": "Alig96/dd-legacy",
+    "type": "library",
+    "description": "Provides mechanisms for walking through any arbitrary PHP variable (for legacy projects)",
+    "keywords": ["dump", "debug", "dd"],
+    "license": "MIT",
+    "authors": [],
+    "require": {
+        "php": ">=5.3 <7.1.3",
+        "symfony/var-dumper": "<4.1.0"
+    },
+    "autoload": {
+        "files": [
+            "src/dd.php"
+        ]
+    }
+}
