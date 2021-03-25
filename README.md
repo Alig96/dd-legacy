@@ -7,12 +7,14 @@ If your project's PHP version is above `7.1.3`, then don't use this project. Req
 
 ## Compatibility
 
-| PHP Version | Tested & Supported |
-|-------------|--------------------|
-| 5.3.29      | ✅                  |
-| 5.6.40      | ✅                  |
-| 7.0.33      | ✅                  |
-| 7.1.2       | ✅                  |
+| PHP Version | Tested & Supported     |
+|-------------|------------------------|
+| < 5.3       | ❌                      |
+| 5.3.29      | ✅                      |
+| 5.6.40      | ✅                      |
+| 7.0.33      | ✅                      |
+| 7.1.2       | ✅                      |
+| \> 7.1.2    | ❌  (See above comment) |
 
 See [test.md](./documentation/test.md) for more details about how these tests were conducted.
 
