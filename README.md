@@ -3,7 +3,7 @@
 ## Summary
 This library adds support for the Symfony (and other projects that use it such as Laravel) style `dd` function to projects that depend on a PHP version from `5.3` to `7.1.3`. 
 
-If your project's PHP version is above `7.1.3`, then don't use this project. Require `symfony/var-dumper` [directly](https://symfony.com/components/VarDumper).
+> If your project's PHP version is above `7.1.3`, then don't use this project. Require `symfony/var-dumper` [directly](https://symfony.com/components/VarDumper).
 
 ## Compatibility
 
