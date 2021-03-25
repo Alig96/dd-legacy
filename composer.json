@@ -1,5 +1,5 @@
 {
-    "name": "Alig96/dd-legacy",
+    "name": "alig96/dd-legacy",
     "type": "library",
     "description": "Provides mechanisms for walking through any arbitrary PHP variable (for legacy projects)",
     "keywords": ["dump", "debug", "dd"],
