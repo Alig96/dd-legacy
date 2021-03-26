@@ -23,6 +23,4 @@ composer require alig96/dd-legacy
 See [test.md](./documentation/test.md) for more details about how these tests were conducted.
 
 ## Notes
-The `dd` function is not wrapped in a `function_exists` check because there are other dependencies (e.g. `illuminate/support` @ v5.2) that define their own `dd` functionality. By using this project you acknowledge that this will be the definitive `dd` function used within your project.
-
 This project is a wrapper for [symfony/var-dumper](https://symfony.com/components/VarDumper) so please go contribute and support them for more great software.
